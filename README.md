@@ -7,7 +7,7 @@
    ls
 ```
 
-- ## ` cd `  command : to go to the new directory
+- ## ` cd folder_name`  command : to go to the new directory
   - it is stand for change directory
   - it is use to switch between folder
 ```bash

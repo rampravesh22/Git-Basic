@@ -1,23 +1,5 @@
 # Git and Github full 
-- ## ` ls` 
-  ### command : to see the list of folder in the directory
-  It is baically used to show the list of the file and folder 
-```bash
-   ls
-```
-- ## ` cd folder_name `  
-  ### command : to go to the new directory
-  - it is stand for change directory
-  - it is use to switch between folder
-```bash
-     cd folder_name
-```
-- ## ` cd.. `  
-  ### command : to go back to previous directory
-  - it is use go back in previous folder 
-```bash
-     cd..
-```
+
 - ## ` git init `  
   ### command : to iniialize the folder into git
   - it is use to initialize the folder as git so the git can track the history 
@@ -41,56 +23,25 @@
      touch new_file.ext
 ```
 
-- ## ` ls` 
+- ## ` To create a new username and email` 
   ### command : To see all the file and folder
-  It is baically used to show the list of the file and folder 
-```bash
-   ls
-```
-- ## ` cd folder_name`  
-  ### command : To move to the another folder 
-  - it is stand for change directory
-  - it is use to switch between folder
-```bash
+
   $ git config --global user.name "rpc"
   $ git config --global user.email "rpc737@gmail.com"
 
-```
-<<<<<<< HEAD
-- ## Edit username and email.
-=======
-- ## ` cd.. `  
-  ### command Goto previous folder
-  - it is use go back in previous folder 
->>>>>>> f76afbe16ec36d195daad9c87c69ed9d16266da5
+- ## ` To edit a new username and email` 
 ```bash
   $ git config --global edit
 
 ```
-<<<<<<< HEAD
 
 
 - ## ` git init `  command : to iniialize the folder into git
-=======
-- ## ` git init `  
-   ### command : To initialize the folder as git repo
->>>>>>> f76afbe16ec36d195daad9c87c69ed9d16266da5
   - it is use to initialize the folder as git so the git can track the history 
   - first go to that folder and run the following command
 ```bash
      git init
 ```
-<<<<<<< HEAD
-
-=======
-- ## `ls -a `  
- ### command: To see hidden file and folder
-  - it is use to see the hidden file and folder
-  - 
-```bash
-     ls -a
-```
->>>>>>> f76afbe16ec36d195daad9c87c69ed9d16266da5
 
 - ## ` git status`  
   ### command : To see the change in git repo
@@ -131,15 +82,6 @@
      git commit -m "Message while commiting"
 ```
 
-<<<<<<< HEAD
-=======
-- ## `cat file.ext`  
-  ### command : To see the content inside the file
-  - It shows the content that has inside the file
-```bash
-     cat file_name.ext
-```
->>>>>>> f76afbe16ec36d195daad9c87c69ed9d16266da5
 
 - ## `git log`  
   ### command : It shows entire commited history
