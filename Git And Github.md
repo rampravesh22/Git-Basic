@@ -109,9 +109,9 @@
 ```
 
 - ## `git push origin master` 
-  ### command : After attaching the github with the local directory please run the push command to see the all file inside the folder
+  ### command : After attaching the github with the local directory please run the push command to see the all change on online respo on github
   -  git push command is to push all the file on the github repository
-  -  
+ 
 ```bash
      git push origin master
 ```
