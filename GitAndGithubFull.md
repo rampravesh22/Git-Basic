@@ -28,7 +28,8 @@
      ls -a
 ```
 
-- ## `touch`  command: To creat a new file 
+- ## `touch`  
+  ### command: To creat a new file 
   - it is use to create a new file
   - touch file_name.extension ( extesnion can be any type like .py .txt .cpp .java .md etc)
 ```bash
