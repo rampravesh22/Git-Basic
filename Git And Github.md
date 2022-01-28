@@ -45,7 +45,7 @@
      git add .
 ```
 - ## `git restore --staged file_name.ext`
-###  command : To stage the file from trackin area
+  ###  command : To stage the file from trackin area
   -  This command remove all the file from staging area into unstage 
   - file name can be like a.md, a.py, a.txt etc.
 ```bash
