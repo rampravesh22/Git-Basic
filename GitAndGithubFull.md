@@ -1,27 +1,5 @@
 # Git and Github full 
 
-- ## ` git init `  
-  ### command : to iniialize the folder into git
-  - it is use to initialize the folder as git so the git can track the history 
-  - first go to that folder and run the following command
-```bash
-     git init
-```
-- ## `ls -a `  
-  ### command : show the hidden folder list
-  - it is use to see the hidden file and folder
-  - 
-```bash
-     ls -a
-```
-
-- ## `touch new_file.ext`  
-  ### command: To creat a new file 
-  - it is use to create a new file
-  - touch file_name.extension ( extesnion can be any type like .py .txt .cpp .java .md etc)
-```bash
-     touch new_file.ext
-```
 
 - ## ` To create a new username and email` 
   ### command : To see all the file and folder
