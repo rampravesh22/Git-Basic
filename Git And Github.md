@@ -164,6 +164,7 @@
 
 ```
 - ## To merge the child branch into the parent branch
+-  goto the parent branch that you want to merge and then run the follwing command with child branch name
 ```bash
    git merge child_branch_name
 
