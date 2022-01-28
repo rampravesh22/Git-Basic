@@ -4,12 +4,14 @@
 - ## ` To create a new username and email` 
   ### command : To see all the file and folder
 
-  $ git config --global user.name "rpc"
-  $ git config --global user.email "rpc737@gmail.com"
+  ``` bash
+      git config --global user.name "rpc"
+      git config --global user.email "rpc737@gmail.com"
+   ```
 
 - ## ` To edit a new username and email` 
 ```bash
-  $ git config --global edit
+      git config --global edit
 
 ```
 
@@ -26,7 +28,7 @@
   -  It is basically use to see the all the cahnges that are made in the git repository
   - 
 ```bash
-     git status
+       git status
 ```
 
 - ## `git add  filename`  
