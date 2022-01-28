@@ -1,5 +1,5 @@
 
-# Learn Git and Github
+# Learn Git
 
 This is easiest way to learn basic Git
 
