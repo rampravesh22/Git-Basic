@@ -88,7 +88,7 @@
   -  This command remove all the file from staging area into unstage 
   - file name can be like a.md, a.py, a.txt etc.
 ```bash
-     git restore --unstage file name_
+     git restore --unstage file_name
 ```
 
 - ## `git commit -m "a.txt file added`  command : To commit all the changes
