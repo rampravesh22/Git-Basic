@@ -34,6 +34,14 @@
      touch new_file.ext
 ```
 
+- ## `touch file-1 file-2`  command: To creat multiple file at once
+  - it is use to create multile file at one command
+  - touch file_name.html file.css file.js ( extesnion can be any type like .py .txt .cpp .java .md etc)
+```bash
+     touch a.html b.css c.js
+```
+
+
 - ## `cat file.ext`  command : To see the content inside the file
   - It shows the content that has inside the file
 ```bash
