@@ -25,8 +25,8 @@
 
 ## Now create a repositry in Github 
 #### And you will see a message like  
-1-.or push an existing repository from the command line / 
-2-…or push an existing repository from the command line
+#### 1-.or push an existing repository from the command line / 
+### 2-…or push an existing repository from the command line
 
 - #### After commiting run all the follwing command one by one to connect your local directory to github
 - #### https://github.com/rickwarty/Todo.git it is url of repository
