@@ -1,6 +1,6 @@
 
 # How To Connect Local Directory To Github
-- ## open the folder in git bash or any other terminal like powershell, Command
+- ## Open the folder in git bash or any other terminal like powershell, Command
 ```bash
    git branch
 
