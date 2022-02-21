@@ -27,7 +27,9 @@
 #### And you will see a message like  or push an existing repository from the command line / …or push an existing repository from the command line
 
 - ### After commiting run all the follwing command one by one to connect your local directory to github
--	### https://github.com/rickwarty/Todo.git it is url of re
+-	### https://github.com/rickwarty/Todo.git it is url of repository
+
+
 
  ```bash
    git remote add origin https://github.com/rickwarty/Todo.git
