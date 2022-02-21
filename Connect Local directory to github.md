@@ -37,7 +37,6 @@
    git remote add origin https://github.com/rickwarty/Todo.git
 ```
 
-	
 
  ```bash
    git branch -M main
