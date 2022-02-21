@@ -31,7 +31,7 @@
  ```bash
    git remote add origin https://github.com/rickwarty/Todo.git
 ```
-	-### https://github.com/rickwarty/Todo.git it is url of re
+	### https://github.com/rickwarty/Todo.git it is url of re
 	
 
  ```bash
