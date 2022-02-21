@@ -11,7 +11,7 @@
 ```
 
 - ## After initializing the directory now add all the file into staging area so git can track these file like updation, deletion etc
- -### this will add all the file at once
+- ### this will add all the file at once
 
 ```bash
    git add .
