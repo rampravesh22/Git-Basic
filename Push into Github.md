@@ -7,7 +7,7 @@
 
 
 ```
-    git push -u origin master 
+    git push -u origin main
   ```
    
 - If ``git push -u origin master `` will not work or give error like follwing.
